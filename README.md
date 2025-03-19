@@ -37,3 +37,8 @@ World News is a dynamic news portal built using PHP & MySQL, offering a seamless
 | **mPDF Library** | PDF Downloads |
 | **Bootstrap** | Responsive Design |
 | **News API** | Fetching global news |
+
+
+## 🎥 Project Demo
+[Watch the Video Here](https://drive.google.com/file/d/1_GSwABZLOHjdXp88eH7t2baoFC5z1SmT/view?usp=drive_link)
+
