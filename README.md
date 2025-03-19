@@ -24,7 +24,7 @@ World News is a dynamic news portal built using PHP & MySQL, offering a seamless
 ✔ Authors contribute news directly
 ✔ News API integration for latest global updates
 
-🏗 Tech Stack
+
 ## 🏗 **Tech Stack**  
 
 | Technology | Purpose |
